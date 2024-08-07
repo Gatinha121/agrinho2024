@@ -37,7 +37,7 @@
 }
 
 .nossa-escola {
-    background-image: linear-gradient(#300301, #fffdfd);
+    background-image: linear-gradient(hsl(0, 0%, 100%), #fffdfd);
     color: white;
     display: flex;
     justify-content: center;
