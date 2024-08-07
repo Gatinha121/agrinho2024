@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: hsla(41, 100%, 50%, 0.094);
+    background-color: rgba(241, 172, 23, 0.938);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -38,7 +38,7 @@
 
 .nossa-escola {
     background-image: linear-gradient(hsl(0, 0%, 100%), #fffdfd);
-    color: white;
+    color: hsl(0, 0%, 100%);
     display: flex;
     justify-content: center;
     align-items: center;
