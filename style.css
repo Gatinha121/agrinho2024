@@ -97,8 +97,8 @@
 }
 
 .rodapé{
-    background-color: hwb(0 0% 100%);
-    color: hsl(29, 100%, 52%);
+    background-color: #64ff04;
+    color:#ff0000;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
@@ -106,7 +106,7 @@
     align-items: center;
 }
 
-.rodapé-imagem{ <li class="cabeçalho-lista-item2">Equipe de Professores</li>
+.rodape-imagem{ 
     width: 70px;
 }
 
