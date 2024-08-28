@@ -97,7 +97,7 @@
 }
 
 .rodapé{
-    background-color: hsl(0, 0%, 100%);
+    background-color: hwb(0 0% 100%);
     color: hsl(29, 100%, 52%);
     font-size: 20px;
     display: flex;
